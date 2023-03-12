@@ -4,7 +4,7 @@ Broken Access Control (OWASP 10 Juice Shop)
 </h3>
 <br>
 <p align=“center”>
-<img src="./Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.007.jpeg" alt=“Size Limit CLI” width=“300”>
+<img src="./Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.001.jpeg" alt=“Size Limit CLI” width=“300”>
 </p>
 <br>
 <p align=“center”>
