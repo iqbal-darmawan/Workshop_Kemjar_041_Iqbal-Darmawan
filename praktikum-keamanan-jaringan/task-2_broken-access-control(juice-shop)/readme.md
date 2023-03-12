@@ -28,20 +28,20 @@
 </p>
 <br>
 
-1. Five-Star Feedback
+### A. Five-Star Feedback
 
 Merubah data customer feedback melalui admin.
 
 1. Login sebagai admin terlebih dahulu
-1. Masuk ke laman /administration
+2. Masuk ke laman /administration
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.002.png)
 
-1. Hapus customer feedback dengan bintang 5
+3. Hapus customer feedback dengan bintang 5
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.003.jpeg)
 
-1. Forged Feedback
+### B. Forged Feedback
 
 Merubah data nilai feed back produk dengan nilai custom
 
@@ -49,40 +49,40 @@ Merubah data nilai feed back produk dengan nilai custom
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.004.jpeg)
 
-1. Lalu buka aplikasi burp suite dan nyalakan intercept on ketika akan melakukan submit forged feedback dan ubah data userid dengan userid lainnya
+2. Lalu buka aplikasi burp suite dan nyalakan intercept on ketika akan melakukan submit forged feedback dan ubah data userid dengan userid lainnya
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.005.jpeg)
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.006.jpeg)
 
-1. Forged Review
+### C. Forged Review
 
 Forged review ini akan melakukan manipulasi data review produk.
 
 1. Pertama login terlebih dahulu
-1. Lalu tambahkan review pada produk
+2. Lalu tambahkan review pada produk
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.007.jpeg)
 
-1. Buka burp suite lalu check endpoint terakhir pada HTTP History dengan method PUT dan kirim ke repeater dan ubah datanya dan kirimkan lagi bodynya melalui burpsuite
+3. Buka burp suite lalu check endpoint terakhir pada HTTP History dengan method PUT dan kirim ke repeater dan ubah datanya dan kirimkan lagi bodynya melalui burpsuite
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.008.jpeg)
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.009.jpeg)
 
-1. Manipulate Basket
+### D. Manipulate Basket
 
 Pada proses ini akan memanipulasi data keranjang
 
 1. Lakukan register akun baru
-1. Jika sudah login akun baru tambahkan produk ke keranjang
+2. Jika sudah login akun baru tambahkan produk ke keranjang
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.010.jpeg)
 
-1. Buka burp suite dan check endpoint terakhir untuk mengupdate keranjang lalu kirim ke repeater
+3. Buka burp suite dan check endpoint terakhir untuk mengupdate keranjang lalu kirim ke repeater
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.011.jpeg)
 
-1. Ubah basketid nya agar produk masuk ke keranjang user lain
+4. Ubah basketid nya agar produk masuk ke keranjang user lain
 
 ![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.012.jpeg)![](Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.013.jpeg)
