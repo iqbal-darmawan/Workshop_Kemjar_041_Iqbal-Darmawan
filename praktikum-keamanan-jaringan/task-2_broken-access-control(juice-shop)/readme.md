@@ -1,30 +1,30 @@
-<h3 align=“center”>
-<b>Praktikum Kemanan Jaringan</b><br>
-Broken Access Control (OWASP 10 Juice Shop)
+<h3 align="center">
+    <b>Praktikum Kemanan Jaringan</b><br>
+    Broken Access Control (OWASP 10 Juice Shop)
 </h3>
 <br>
-<p align=“center”>
-<img src="./Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.001.jpeg" alt=“Size Limit CLI” width=“300”>
+<p align="center">
+  <img src="./Aspose.Words.6b1f4fe7-3b13-422c-a571-c9955d0372ba.001.jpeg" alt="Size Limit CLI" width="300">
 </p>
 <br>
-<p align=“center”>
-Dosen Pembimbing:<br>
-Ferry Astika Saputra, S.T., M.Sc.
+<p align="center">
+    Dosen Pembimbing:<br>
+    Ferry Astika Saputra, S.T., M.Sc.
 </p>
 <br>
-<p align=“center”>
-Disusun Oleh:<br>
-Iqbal Darmawan (3122640041)
+<p align="center">
+    Disusun Oleh:<br>
+    Iqbal Darmawan (3122640041)
 </p>
 <br>
-<p align=“center”>
-<b>
-KELAS D4 LJ IT B <br>
-JURUSAN D4 LJ TEKNIK INFORMATIKA <br>
-DEPARTEMEN TEKNIK INFORMATIKA DAN KOMPUTER <br>
-POLITEKNIK ELEKTRONIKA NEGERI SURABAYA <br>
-2023
-</b>
+<p align="center">
+    <b>
+        KELAS D4 LJ IT B <br>
+        JURUSAN D4 LJ TEKNIK INFORMATIKA <br>
+        DEPARTEMEN TEKNIK INFORMATIKA DAN KOMPUTER <br> 
+        POLITEKNIK ELEKTRONIKA NEGERI SURABAYA <br>
+        2023
+    </b>
 </p>
 <br>
 
